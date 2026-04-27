@@ -542,6 +542,7 @@
 "empty-no-saved-pages-title" = "Sem páginas salvas ainda.";
 "empty-no-search-results-message" = "Nenhum resultado encontrado";
 "empty-talk-page-title" = "Nenhuma mensagem foi postada para este usuário ainda";
+"end-session" = "Encerrar sessão";
 "error-generic-recovery-suggestion" = "Por favor, tente novamente mais tarde";
 "error-unknown" = "Ocorreu um erro desconhecido";
 "explore-another-random" = "Outro artigo aleatório";
@@ -1245,6 +1246,8 @@
 "settings-storage-and-syncing-show-default-reading-list-footer-text" = "Mostrar a lista de leitura salvados(por exemplo, a lista padrão) como uma lista separada na vista de listas de leitura. Esta lista aparece nos dispositivos Android.";
 "settings-storage-and-syncing-show-default-reading-list-title" = "Mostrar lista de leitura salvada";
 "settings-storage-and-syncing-title" = "Armazenamento e sincronização de artigos";
+"settings-temp-account-end-session-confirm" = "Sair";
+"settings-temp-account-end-session-title" = "Encerrar sessão";
 "settings-title" = "Configurações";
 "settings-year-in-review-header" = "Desativar o resumo do ano apagará todas as informações personalizadas armazenadas e ocultará o Resumo do ano.";
 "share-a-fact-made-with" = "Feito com o aplicativo Wikipedia";
